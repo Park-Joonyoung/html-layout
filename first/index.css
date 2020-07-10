@@ -1,0 +1,34 @@
+@import "reset.css";
+
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+.header {
+  width: 100vw;
+  height: 20vh;
+  background-color: #444444;
+}
+
+.main-wrapper {
+  display: flex;
+}
+
+.main-content {
+  background-color: #efefef;
+  width: 75vw;
+  height: 70vh;
+}
+
+.sidebar {
+  background-color: #d8d8d8;
+  width: 12.5vw;
+  height: 80vh;
+}
+
+.footer {
+  background-color: #222222;
+  width: 75vw;
+  height: 10vh;
+}
